@@ -20,7 +20,7 @@ I'm Allan, a Fullstack Developer and aspiring Software Architect from Rio de Jan
 
 ---
 
-### Main skills
+### Main skills:
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
@@ -28,7 +28,7 @@ I'm Allan, a Fullstack Developer and aspiring Software Architect from Rio de Jan
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117)&nbsp;
 
-### Other Skills
+### Other Skills:
 
 ![React Native](https://img.shields.io/badge/-React_Native-0D1117?logo=react&style=for-the-badge&labelColor=0D1117&logoColor=61DAFB)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?logo=graphql&style=for-the-badge&labelColor=0D1117&logoColor=E10098)&nbsp;
@@ -39,7 +39,7 @@ I'm Allan, a Fullstack Developer and aspiring Software Architect from Rio de Jan
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?logo=postgresql&style=for-the-badge&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?logo=mongodb&style=for-the-badge&labelColor=0D1117)&nbsp;
 
-### Tools and Platforms
+### Tools and Platforms:
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Rider](https://img.shields.io/badge/-Rider-0D1117?logo=rider&style=for-the-badge&labelColor=0D1117&logoColor=crimson)&nbsp;
@@ -49,7 +49,7 @@ I'm Allan, a Fullstack Developer and aspiring Software Architect from Rio de Jan
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0D1117?logo=digitalOcean&style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Netlify](https://img.shields.io/badge/-Netlify-0D1117?logo=netlify&style=for-the-badge&labelColor=0D1117)&nbsp;
 
-### Studying in this moment
+### Studying:
 
 ![Go](https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&logo=go&labelColor=0D1117)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-0D1117?logo=amazon-aws&style=for-the-badge&labelColor=0D1117&logoColor=FF9900)&nbsp;
