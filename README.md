@@ -51,8 +51,8 @@ I'm Allan, a Fullstack Developer and aspiring Software Architect from Rio de Jan
 
 ### Studying:
 
-![Go](https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&logo=go&labelColor=0D1117)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-0D1117?logo=amazon-aws&style=for-the-badge&labelColor=0D1117&logoColor=FF9900)&nbsp;
+![iOS Development](https://img.shields.io/badge/-iOS_Development-0D1117?style=for-the-badge&logo=ios&labelColor=0D1117)&nbsp;
+![Swift](https://img.shields.io/badge/-Swift-0D1117?style=for-the-badge&logo=swift&labelColor=0D1117)&nbsp;
 
 ---
 
@@ -64,12 +64,3 @@ I'm Allan, a Fullstack Developer and aspiring Software Architect from Rio de Jan
   />
 </a>&nbsp;
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;](/allanmaral)
-
-<div align="center">
-  <br/>
-  <img
-    align="center"
-    style="width: 0px; height: 0px;"
-    src="https://hits.sh/github.com/allanmaral/hits.svg?style=for-the-badge&labelColor=0D1117&color=00BFBF&label=Visitors+Count"
-  >
-</div>
