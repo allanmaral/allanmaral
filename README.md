@@ -13,8 +13,8 @@ I'm Allan, a Fullstack Developer and aspiring Software Architect from Rio de Jan
 ### My current areas of interest are
 
 * Frontend Development
+* iOS Development
 * Clean Code
-* Domain Driven Design
 
 💬 Fill free to ping me about **React, Vue, and other frontend stuff**.
 
