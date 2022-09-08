@@ -63,4 +63,4 @@ I'm Allan, a Fullstack Developer and aspiring Software Architect from Rio de Jan
     alt="Gmail"
   />
 </a>&nbsp;
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;](/allanmaral)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;](https://github.com/allanmaral)
