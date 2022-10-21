@@ -8,13 +8,14 @@
 
 ## Welcome 👋
 
-I'm Allan, a Fullstack Developer and aspiring Software Architect from Rio de Janeiro, Brazil <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/>.
+I'm Allan, a Fullstack Developer and aspiring iOS Developer from Rio de Janeiro, Brazil <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/>.
 
 ### My current areas of interest are
 
-* Frontend Development
 * iOS Development
+* Frontend Development
 * Clean Code
+* Software Architecture
 
 💬 Fill free to ping me about **React, Vue, and other frontend stuff**.
 
