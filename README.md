@@ -55,6 +55,7 @@ I'm Allan, a Fullstack Developer and aspiring Software Architect from Rio de Jan
 ### Studying:
 
 ![Go](https://img.shields.io/badge/Go-0D1117?logo=go&style=for-the-badge&labelColor=0D1117)&nbsp;
+![Go](https://img.shields.io/badge/Rust-0D1117?logo=rust&style=for-the-badge&labelColor=0D1117&logoColor=f66900)&nbsp;
 ![Vim](https://img.shields.io/badge/VIM-0D1117?logo=vim&logoColor=11ab00&style=for-the-badge&labelColor=0D1117)&nbsp;
 
 ---
