@@ -17,7 +17,7 @@ I'm Allan, a Fullstack Developer and aspiring iOS Developer from Rio de Janeiro,
 * Software Architecture
 * Clean Code
 
-💬 Fill free to ping me about **React, Vue, and other frontend stuff**.
+💬 Fill free to ping me about **iOS, React, Vue, and other UI development stuff**.
 
 ---
 
@@ -31,9 +31,9 @@ I'm Allan, a Fullstack Developer and aspiring iOS Developer from Rio de Janeiro,
 
 ### Studying:
 
-![Go](https://img.shields.io/badge/Go-0D1117?logo=go&style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-0D1117?style=for-the-badge&logo=swift&labelColor=0D1117)&nbsp;
 ![iOS Development](https://img.shields.io/badge/-iOS_Development-0D1117?style=for-the-badge&logo=ios&labelColor=0D1117)&nbsp;
+![Go](https://img.shields.io/badge/Go-0D1117?logo=go&style=for-the-badge&labelColor=0D1117)&nbsp;
 
 ---
 
