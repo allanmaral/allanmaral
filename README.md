@@ -8,16 +8,15 @@
 
 ## Welcome 👋
 
-I'm Allan, a Fullstack Developer and aspiring iOS Developer from Rio de Janeiro, Brazil <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/>.
+I'm Allan, a Fullstack Developer from Rio de Janeiro, Brazil <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/>.
 
 ### My current areas of interest are
 
-* iOS Development
 * Web Development
 * Software Architecture
 * Clean Code
 
-💬 Fill free to ping me about **iOS, React, Vue, and other UI development stuff**.
+💬 Fill free to ping me about **React, Vue, and other UI development stuff**.
 
 ---
 
@@ -26,14 +25,14 @@ I'm Allan, a Fullstack Developer and aspiring iOS Developer from Rio de Janeiro,
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117)&nbsp;
+![Go](https://img.shields.io/badge/Go-0D1117?logo=go&style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117)&nbsp;
 
 ### Studying:
 
-![Swift](https://img.shields.io/badge/-Swift-0D1117?style=for-the-badge&logo=swift&labelColor=0D1117)&nbsp;
-![iOS Development](https://img.shields.io/badge/-iOS_Development-0D1117?style=for-the-badge&logo=ios&labelColor=0D1117)&nbsp;
-![Go](https://img.shields.io/badge/Go-0D1117?logo=go&style=for-the-badge&labelColor=0D1117)&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&logo=rust&labelColor=0D1117)&nbsp;
+![Zig](https://img.shields.io/badge/-Zig-0D1117?style=for-the-badge&logo=zig&labelColor=0D1117)&nbsp;
 
 ---
 
