@@ -1,11 +1,3 @@
-<div
-  align="center"
-  style="margin: 3em;"
->
-  <img src="https://media1.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=ecf05e47iby8o18qdm1oiwgapwmin45sgg469wlgd4xkllzl&rid=giphy.gif" />
-  
-</div>
-
 ## Welcome 👋
 
 I'm Allan, a Fullstack Developer from Rio de Janeiro, Brazil <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/>.
